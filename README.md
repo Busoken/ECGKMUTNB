@@ -30,7 +30,15 @@ This project aims to create a Simulink model for ECG signal processing and imple
 9. **Advanced Features**: Added additional functionalities like displaying frequency spectrums and wavelet transform.
 
 ## Future Work
-- [Describe any planned future enhancements or features]
+- **Advanced Signal Processing Techniques**: Implementing sophisticated methods like wavelet transforms for enhanced analysis of non-stationary ECG data.
+- **Comprehensive Frequency Spectrum Analysis**: Extending the tool to provide detailed frequency spectrums for deeper insights into cardiac conditions.
+- **Machine Learning Integration**: Employing machine learning for automated and accurate diagnosis of cardiac anomalies.
+- **Real-time Signal Processing**: Developing capabilities for real-time processing, suitable for clinical patient monitoring.
+- **Telehealth and Remote Monitoring**: Adding features for remote ECG monitoring to aid telehealth services for chronic heart patients.
+- **Interoperability with Medical Records Systems**: Ensuring compatibility with electronic health record systems for practical healthcare application.
+- **User Customization and Settings**: Allowing customization of settings and processing parameters for varied research and clinical uses.
+- **Compliance and Certification**: Working towards medical device regulations and certifications for clinical use.
+- **Educational Use and Training**: Utilizing the tool as a platform for medical education in ECG interpretation and signal processing.
 
 ## Contributors
 - นายนรวิชญ์ บุญเลิศรัตน์ 6501012610068
