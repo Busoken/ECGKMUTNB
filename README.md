@@ -33,8 +33,6 @@ This project aims to create a Simulink model for ECG signal processing and imple
 - [Describe any planned future enhancements or features]
 
 ## Contributors
-- [List of project contributors, if applicable]
-
-## License
-- [Specify the license under which this project is released, if applicable]
+- นายนรวิชญ์ บุญเลิศรัตน์ 6501012610068
+- นายภูชิสส์ คงมา 6501012610092
 
